@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)]()
 
 > 🚀 **Marg Setu** is a visionary web application built to empower young entrepreneurs by connecting them with potential investors, mentors, accelerators, and growth resources — all under one digital roof.
-
+> 🚦 Pitching ➜ Matching ➜ Learning ➜ Growing ➜ Scaling
 ---
 
 ## 🌟 The Vision
@@ -27,14 +27,17 @@ Built with **React** and **pure CSS**, this platform is currently in active deve
 
 ---
 
-## 🔐 Role-Based Access System
+## 👥 Role-Based Access (RBAC)
 
-Marg Setu supports a scalable, secure, and modular **Role-Based Access Control (RBAC)** system:
-- 👤 **Entrepreneur**
-- 💼 **Investor**
-- 🎓 **Mentor**
-- 🧠 **Brainstormer**
-- 🛡️ **Admin**
+Every user type gets a tailored experience:
+
+| Role           | Access Scope                                      |
+|----------------|---------------------------------------------------|
+| 🧑‍💼 Entrepreneur | Create pitch decks, track startup profile         |
+| 💰 Investor      | Discover & invest in promising startups          |
+| 🎓 Mentor        | Offer guidance and mentorship slots              |
+| 🧠 Brainstormer  | Contribute ideas and early validation            |
+| 🛡️ Admin         | Full platform access + moderation tools          |
 
 ---
 
@@ -72,6 +75,8 @@ Marg Setu supports a scalable, secure, and modular **Role-Based Access Control (
 > *(Screenshots are WIP — will be updated with final UI snapshots post integration.)*
 
 ---
+
+
 
 ## 🛠️ Getting Started
 
