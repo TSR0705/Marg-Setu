@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# 🌉 Marg Setu — Bridging Visionaries with Investors
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)]()
+[![Technologies](https://img.shields.io/badge/built%20with-React%20%7C%20CSS-blueviolet?style=flat-square)]()
+[![License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)]()
 
-## Available Scripts
+> 🚀 **Marg Setu** is a visionary web application built to empower young entrepreneurs by connecting them with potential investors, mentors, accelerators, and growth resources — all under one digital roof.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🌟 The Vision
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In a world brimming with ideas, one of the biggest challenges for early-stage entrepreneurs is **access** — to capital, guidance, resources, and visibility. **Marg Setu** is our attempt to bridge that gap — a **digital bridge** that connects bold thinkers with the people and opportunities that can bring their ideas to life.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Built with **React** and **pure CSS**, this platform is currently in active development, with the frontend handled in this repository and the backend collaboratively built and maintained by our development partner.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🖥️ Tech Stack
 
-### `npm run build`
+| Layer      | Tech                                  |
+|------------|---------------------------------------|
+| **Frontend** | `React`, `CSS`, `GSAP`, `Framer Motion` |
+| **Backend**  | [In Progress — by Collaborator](https://github.com/your-friend/backend-repo) |
+| **Security** | Blockchain-inspired secure information flows |
+| **Hosting**  | Planned: Vercel / Netlify / AWS |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🔐 Role-Based Access System
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Marg Setu supports a scalable, secure, and modular **Role-Based Access Control (RBAC)** system:
+- 👤 **Entrepreneur**
+- 💼 **Investor**
+- 🎓 **Mentor**
+- 🧠 **Brainstormer**
+- 🛡️ **Admin**
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ✨ Core Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+| 💡 Feature | Description |
+|-----------|-------------|
+| 🚀 **Live Pitch Decks** | Entrepreneurs can upload and showcase their startup pitches to potential investors. |
+| 🤝 **AI-Powered Profile Matchmaking** | Smart matching engine recommends relevant investors, mentors, or programs. |
+| 🔒 **Blockchain-Secured Information** | Ensures tamper-proof and transparent interactions and document exchanges. |
+| 📅 **Events & Networking Hub** | Explore local and global events, pitch sessions, and incubator meetups. |
+| 🎓 **Mentorship Network** | Connect with seasoned professionals offering one-on-one guidance. |
+| 💰 **Investor Directory** | Browse verified investors based on industry, fund size, region, and interests. |
+| 📈 **Explore Startups** | A dynamic feed of live and emerging ventures open to collaboration or funding. |
+| 🧑‍🏫 **Learner Dashboard** | Personalized insights, courses, and startup journey tracking. |
+| 📚 **Learning Resources Hub** | Curated articles, videos, and toolkits to empower your growth. |
+| 🌐 **Opportunity Center** | Discover grants, contests, funding calls, and accelerator openings. |
+| 🏆 **Incubators & Accelerators** | Access verified programs with detailed eligibility and benefits. |
+| 🤖 **AI Chatbot Assistant** | Integrated AI to answer queries, suggest resources, and assist onboarding. |
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🚧 Project Status
 
-## Learn More
+> ⚠️ This is an active project under development. We're continuously testing components, improving animations, and integrating with the backend APIs (hosted in a [separate repo](https://github.com/your-friend/backend-repo)).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📸 Preview (UI Snapshots)
 
-### Code Splitting
+| Dashboard Preview | Role-Based Panels |
+|-------------------|-------------------|
+| ![Dashboard](assets/dashboard-preview.png) | ![Roles](assets/roles-preview.png) |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+> *(Screenshots are WIP — will be updated with final UI snapshots post integration.)*
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🛠️ Getting Started
 
-### Making a Progressive Web App
+```bash
+# Clone the frontend repo
+git clone https://github.com/your-username/marg-setu.git
+cd marg-setu
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Install dependencies
+npm install
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Run the app
+npm start
